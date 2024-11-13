@@ -1,4 +1,4 @@
-# Online Food Ordering Website
+# FoodBazar
 
 ## Project Description
 This project is an **Online Food Ordering Website** designed for customers to browse, order, and pay for food from various categories. It consists of two main components:
