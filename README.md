@@ -1,26 +1,26 @@
 # FoodBazar
 
-## Project Description
-This project is an **Online Food Ordering Website** designed for customers to browse, order, and pay for food from various categories. It consists of two main components:
-- **User Side**: Customers can register, browse the menu, add items to the cart, and proceed with checkout.
-- **Admin Side**: Administrators can manage the menu, view orders, and track user activity.
+## 🚀 Project Description
+**FoodBazar** is a dynamic and user-friendly **Online Food Ordering System** that allows users to browse food items, add them to a cart, and place orders with ease.  
 
-## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
-- **Database**: MySQL (for managing users, orders, and menu items)
+It includes two main components:
+- **User Side**: Enables customers to register, explore the menu, manage their cart, and complete orders.
+- **Admin Side**: Provides administrators with tools to manage food items, view and process orders, and monitor user activity.
 
-## Features
+## 💻 Technologies Used
+- **Frontend**: HTML5, CSS3, JavaScript  
+- **Backend**: PHP (Core PHP)  
+- **Database**: MySQL (used for managing users, menu items, and orders)
 
-### User Side
-- Browse food categories and items.
-- Add items to the cart.
-- Complete checkout with order details.
-- User profile management.
+## ✨ Features
 
-### Admin Side
-- Manage food items (add, update, delete).
-- View and manage user orders.
-- Track order status and customer information.
+### 👨‍🍳 User Side
+- Browse food categories and menu items  
+- Add items to the cart with quantity selection  
+- Checkout with order details  
+- Manage user profile and view past orders
 
-
+### 🛠️ Admin Side
+- Add, update, and delete food items  
+- View and manage all customer orders  
+- Track order status and view customer information
